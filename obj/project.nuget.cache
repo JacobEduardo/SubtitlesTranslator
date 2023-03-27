@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rPknsXwF1DoMQZnzN1r8jZlPkKPYxSqQPf1eR0cZoaVcrzCU7zoW6bAhXuLWrtZ/7jKMH5Ebbpoz7Yg0KQSu4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacob\\OneDrive\\Documentos\\NET\\SubtitlesTranslator\\SubtitlesTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
